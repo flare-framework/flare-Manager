@@ -406,7 +406,7 @@ function getDirContents($dir, &$results = array()) {
         <?php
         if (isset($_POST['Controller'])){
             $contclassname = trim($_POST['Controllername']) ;
-            if (isset($_POST['Controllerdir'])){
+            if (!empty($_POST['Controllerdir'])){
                 $mkdir ='Flare\\Controllers\\'.trim($_POST['Controllerdir']);
                 mkdir($mkdir) ;
             }
