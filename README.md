@@ -6,7 +6,7 @@ Welcome to the flare-Manager
 
 
 
-install Flare form [https://github.com/sajjadef98/Flare](https://github.com/sajjadef98/Flare) move index.php your root 
+install Flare form [https://github.com/sajjadef98/Flare](https://github.com/flare-framework/Flare) move index.php your root 
 enjoy it
 
 * -----root
@@ -16,7 +16,7 @@ enjoy it
 
 به فلر منیجر خوش آمدید
 
-ابتدا فریمورک فلر را از لینک زیرنصب کنید [https://github.com/sajjadef98/Flare](https://github.com/sajjadef98/Flare) سپس فایل index.php را به پوشه اصلی فریمورک منتقل کنید
+ابتدا فریمورک فلر را از لینک زیرنصب کنید [https://github.com/sajjadef98/Flare](https://github.com/flare-framework/Flare) سپس فایل index.php را به پوشه اصلی فریمورک منتقل کنید
 * -----root
 * -----Flare
 * -----public
